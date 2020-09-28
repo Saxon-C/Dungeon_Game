@@ -11,8 +11,9 @@ namespace PlaceholderGame
             {
 
             }
+            //test
             Warrior playerclass = new Warrior();
-            
+
             double dead = 0;
             Console.WriteLine("****************************************");
             Console.WriteLine("\nA fight has begun!");
