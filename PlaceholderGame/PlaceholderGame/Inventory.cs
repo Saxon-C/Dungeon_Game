@@ -14,7 +14,7 @@ namespace PlaceholderGame
 
             if (character.GetClass == "Warrior")
             {
-                playerstats.AddStrength(5);
+                playerstats.AddStrength(5, character);
             }
 
             if (character.GetClass == "Rogue")

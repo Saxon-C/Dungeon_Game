@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/Users/admin/.dotnet/store/|arch|/|tfm|",
-      "/Users/admin/.nuget/packages"
+      "C:\\Users\\coope\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\coope\\.nuget\\packages"
     ]
   }
 }

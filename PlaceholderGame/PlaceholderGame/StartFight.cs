@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Security.Cryptography;
 using System.Threading;
 namespace PlaceholderGame
 {
@@ -6,6 +7,12 @@ namespace PlaceholderGame
     {
         public StartFight(Player player, PlayerStats playerstats, Random rand, TestDummy testdummy, MobStats mobstats)
         {
+            if (player.GetClass == "Warrior")
+            {
+
+            }
+            Warrior playerclass = new Warrior();
+            
             double dead = 0;
             Console.WriteLine("****************************************");
             Console.WriteLine("\nA fight has begun!");
@@ -13,7 +20,7 @@ namespace PlaceholderGame
             while (playerstats.GetHealth > dead && mobstats.GetHealth > dead)
             {
                 //PlayerAttacks
-                player.Attack(playerstats, rand, testdummy, mobstats);
+                playerclass.Attack(playerstats, rand, testdummy, mobstats);
 
                 if (playerstats.GetHealth <= dead)
                 {

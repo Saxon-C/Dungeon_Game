@@ -10,3 +10,16 @@
 /Users/admin/Desktop/C#/personal/PlaceholderGame/PlaceholderGame/obj/Debug/netcoreapp3.1/PlaceholderGame.dll
 /Users/admin/Desktop/C#/personal/PlaceholderGame/PlaceholderGame/obj/Debug/netcoreapp3.1/PlaceholderGame.pdb
 /Users/admin/Desktop/C#/personal/PlaceholderGame/PlaceholderGame/obj/Debug/netcoreapp3.1/PlaceholderGame.genruntimeconfig.cache
+C:\Users\coope\Source\Repos\Vhymn\Dungeon_Game\PlaceholderGame\PlaceholderGame\obj\Debug\netcoreapp3.1\PlaceholderGame.csprojAssemblyReference.cache
+C:\Users\coope\Source\Repos\Vhymn\Dungeon_Game\PlaceholderGame\PlaceholderGame\obj\Debug\netcoreapp3.1\PlaceholderGame.AssemblyInfoInputs.cache
+C:\Users\coope\Source\Repos\Vhymn\Dungeon_Game\PlaceholderGame\PlaceholderGame\obj\Debug\netcoreapp3.1\PlaceholderGame.AssemblyInfo.cs
+C:\Users\coope\Source\Repos\Vhymn\Dungeon_Game\PlaceholderGame\PlaceholderGame\obj\Debug\netcoreapp3.1\PlaceholderGame.csproj.CoreCompileInputs.cache
+C:\Users\coope\Source\Repos\Vhymn\Dungeon_Game\PlaceholderGame\PlaceholderGame\obj\Debug\netcoreapp3.1\PlaceholderGame.dll
+C:\Users\coope\Source\Repos\Vhymn\Dungeon_Game\PlaceholderGame\PlaceholderGame\obj\Debug\netcoreapp3.1\PlaceholderGame.pdb
+C:\Users\coope\Source\Repos\Vhymn\Dungeon_Game\PlaceholderGame\PlaceholderGame\bin\Debug\netcoreapp3.1\PlaceholderGame.exe
+C:\Users\coope\Source\Repos\Vhymn\Dungeon_Game\PlaceholderGame\PlaceholderGame\bin\Debug\netcoreapp3.1\PlaceholderGame.deps.json
+C:\Users\coope\Source\Repos\Vhymn\Dungeon_Game\PlaceholderGame\PlaceholderGame\bin\Debug\netcoreapp3.1\PlaceholderGame.runtimeconfig.json
+C:\Users\coope\Source\Repos\Vhymn\Dungeon_Game\PlaceholderGame\PlaceholderGame\bin\Debug\netcoreapp3.1\PlaceholderGame.runtimeconfig.dev.json
+C:\Users\coope\Source\Repos\Vhymn\Dungeon_Game\PlaceholderGame\PlaceholderGame\bin\Debug\netcoreapp3.1\PlaceholderGame.dll
+C:\Users\coope\Source\Repos\Vhymn\Dungeon_Game\PlaceholderGame\PlaceholderGame\bin\Debug\netcoreapp3.1\PlaceholderGame.pdb
+C:\Users\coope\Source\Repos\Vhymn\Dungeon_Game\PlaceholderGame\PlaceholderGame\obj\Debug\netcoreapp3.1\PlaceholderGame.genruntimeconfig.cache

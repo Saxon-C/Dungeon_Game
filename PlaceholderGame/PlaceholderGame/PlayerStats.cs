@@ -4,7 +4,7 @@ namespace PlaceholderGame
 {
     public class PlayerStats
     {
-        private double totalHealth;
+        //private double totalHealth;
         private int resource = 0;
 
         //private readonly int missChance = 30;
@@ -127,9 +127,6 @@ namespace PlaceholderGame
         {
             totalStamina = amountOfStamina + totalStamina;
             GetHealth = totalStamina * 10;
-            //test
-            GetHealth = 2000;
-            GetHealth = 20000;
         }
 
         public void AddStrength(int amountOfStrength, CharacterCreation playerClass)

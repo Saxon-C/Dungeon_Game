@@ -4,14 +4,14 @@ namespace PlaceholderGame
 {
     public class MobStats
     {
-        private double totalHealth;
+        //private double totalHealth;
 
         //private readonly int missChance = 30;
         private int totalHitChance;
 
         //private readonly int dodge;
 
-        private double totalArmor = 5;
+        private double totalArmor = 5; //default 5
 
         private double meleeDamage;
 
