@@ -1,0 +1,9 @@
+<ListOfTaskListEntry>
+  <TaskListEntry file="" description="player damage is good, make same changes to testdummy, change hp back to 100" />
+  <TaskListEntry file="" description="start creating warrior class implementation " />
+  <TaskListEntry file="" description="make timer between attacks" />
+  <TaskListEntry file="" description="make new ability option (probably based off class choice)" />
+  <TaskListEntry file="" description="make the personality trait give the +5 stat" />
+  <TaskListEntry file="" description="make a separate thread for the mob side of things?" />
+  <TaskListEntry file="" description="implement timer to see how long player has played" />
+</ListOfTaskListEntry>

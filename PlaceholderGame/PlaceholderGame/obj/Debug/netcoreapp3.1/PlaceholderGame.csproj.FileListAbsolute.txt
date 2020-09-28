@@ -1,0 +1,12 @@
+/Users/admin/Desktop/C#/personal/PlaceholderGame/PlaceholderGame/obj/Debug/netcoreapp3.1/PlaceholderGame.AssemblyInfoInputs.cache
+/Users/admin/Desktop/C#/personal/PlaceholderGame/PlaceholderGame/obj/Debug/netcoreapp3.1/PlaceholderGame.AssemblyInfo.cs
+/Users/admin/Desktop/C#/personal/PlaceholderGame/PlaceholderGame/obj/Debug/netcoreapp3.1/PlaceholderGame.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/C#/personal/PlaceholderGame/PlaceholderGame/obj/Debug/netcoreapp3.1/PlaceholderGame.csprojAssemblyReference.cache
+/Users/admin/Desktop/C#/personal/PlaceholderGame/PlaceholderGame/bin/Debug/netcoreapp3.1/PlaceholderGame.deps.json
+/Users/admin/Desktop/C#/personal/PlaceholderGame/PlaceholderGame/bin/Debug/netcoreapp3.1/PlaceholderGame.runtimeconfig.json
+/Users/admin/Desktop/C#/personal/PlaceholderGame/PlaceholderGame/bin/Debug/netcoreapp3.1/PlaceholderGame.runtimeconfig.dev.json
+/Users/admin/Desktop/C#/personal/PlaceholderGame/PlaceholderGame/bin/Debug/netcoreapp3.1/PlaceholderGame.dll
+/Users/admin/Desktop/C#/personal/PlaceholderGame/PlaceholderGame/bin/Debug/netcoreapp3.1/PlaceholderGame.pdb
+/Users/admin/Desktop/C#/personal/PlaceholderGame/PlaceholderGame/obj/Debug/netcoreapp3.1/PlaceholderGame.dll
+/Users/admin/Desktop/C#/personal/PlaceholderGame/PlaceholderGame/obj/Debug/netcoreapp3.1/PlaceholderGame.pdb
+/Users/admin/Desktop/C#/personal/PlaceholderGame/PlaceholderGame/obj/Debug/netcoreapp3.1/PlaceholderGame.genruntimeconfig.cache
